@@ -15,7 +15,7 @@ SELECTED_CSV = "/home/taseen06/Desktop/R3/selected_15k.csv"
 OUTPUT_JPEG_CSV = "/home/taseen06/Desktop/R3/llm_scores_15k_(gemini-3-flash-preview)JPEG.csv"
 OUTPUT_JSON_CSV = "/home/taseen06/Desktop/R3/llm_scores_15k_(gemini-3-flash-preview)JSON.csv"
 
-OLLAMA_URL = "http://127.0.0.1:11437/api/generate"
+OLLAMA_URL = "http://127.0.0.1:11434/api/generate"
 OLLAMA_MODEL = "gemini-3-flash-preview" 
 
 REQUEST_DELAY = 0.8
