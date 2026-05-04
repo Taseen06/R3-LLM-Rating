@@ -1,5 +1,5 @@
 # Rico Dataset
 rico_dataset/
 __pycache__/
-/LLM_PIPELINE_(gemini-3-flash-preview).py
-/test(gemini-3-flash-preview).ipynb
+LLM_PIPELINE_(gemini-3-flash-preview).py
+test(gemini-3-flash-preview).ipynb
